@@ -1,6 +1,6 @@
 ---
-title: "Lab 00 - Hello IDS!"
-author: "INSERT YOUR NAME HERE"
+title: "Lab 1 Test"
+author: "Alessio Tassinari"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -47,7 +47,7 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+
 
 ### Exercises 19
 
@@ -59,7 +59,7 @@ p1 + labs(x = "Insert text here",
           title = "Insert text here")
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 19 here.*
+
 
 ### Exercise 20
 
@@ -68,5 +68,3 @@ p2 <- ggplot(team_data, aes(x = hobby)) +
   geom_bar()
 p2
 ```
-
-*Remove this text (including the stars) and add your answer for Exercise 20 here.*
